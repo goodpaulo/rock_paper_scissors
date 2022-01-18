@@ -74,12 +74,6 @@ function game(){
     }
 }
 
-function test(){
-    for(let u = 0; u<5; u++){
-        console.log(u);
-    }
-}
-
 let computerSelection;
 let playerInput;
 let playerSelection;
